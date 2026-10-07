@@ -59,6 +59,19 @@ fun CityListScreen(
             ) {
                 Text("+")
             }
+            FloatingActionButton(
+                modifier = Modifier.padding(16.dp),
+                onClick = {
+                    showAddCityFields = !showAddCityFields
+                    if (showAddCityFields) {
+                        selectedCity = null
+                        editedCityName = ""
+                        editedProvinceName = ""
+                    }
+                }
+            ) {
+                Text("-")
+            }
         }
         if (showAddCityFields) {
             Row(
