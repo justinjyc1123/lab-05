@@ -1,17 +1,16 @@
 # CMPUT 301 : Lab 5 Participation Exercise
 
 ## Student Details
-
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Jingchao Yang`
+- **CCID:** `jingcha2`
 
 ## References and Resources
-
 List any resources used here, or simply put `N/A` if not applicable.
+ChatGPT for Understanding
 
 ## Verbal Collaboration
+List students' names and CCIDs here, or simply put `N/A` if not applicable. 
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+Justin Zhang, jiting1
+Yuduo Tian, yuduo1
+
